@@ -1,0 +1,3 @@
+STEAM_API_KEY = ""
+SECRET_KEY = ""
+SQL_URL = 'sqlite:////tmp/test.db'
